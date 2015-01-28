@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="Ajax.NET" List="113" Url="_catalogs/wp">
+    <File Path="Ajax.NET\Ajax.NET.webpart" Url="Ajax.Net.Demo_Ajax.NET.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="Custom" />
+    </File>
+  </Module>
+</Elements>
