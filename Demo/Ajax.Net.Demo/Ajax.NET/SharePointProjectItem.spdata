@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="Ajax.NETUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Ajax.NET\" Type="ElementManifest" />
+    <ProjectItemFile Source="Ajax.NET.webpart" Target="Ajax.NET\" Type="ElementFile" />
+    <ProjectItemFile Source="Ajax.NETUserControl.ascx" Target="CONTROLTEMPLATES\Ajax.Net.Demo\Ajax.NET\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="Ajax.Net.Demo.Ajax.NET.Demo" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>

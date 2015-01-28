@@ -1,0 +1,15 @@
+﻿<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ab94f4e1-5121-4265-a27a-8f6881415610" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="Ajax.Net.Demo.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="Ajax.Net.Demo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=62b55bddef13ac12" Namespace="Ajax.Net.Demo" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\Ajax.Net.Demo\Ajax.NET\Ajax.NETUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="Ajax.Net.Demo_Ajax.Net.Demo\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="ab94f4e1-5121-4265-a27a-8f6881415610" solutionId="ab94f4e1-5121-4265-a27a-8f6881415610" resetWebServer="false" sharePointProductVersion="15.0" name="Ajax.Net.Demo" isDesignerEnabled="false" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="d966b02b-d081-49a6-a6b6-1109d2759832" />
+  </features>
+</package>
