@@ -18,4 +18,4 @@ Ajax.NET在.NET的反射机制基础上提供的Ajax解决方案，引入到Shar
 * SharePoint 2013
 
 ## 示例
-参考[Demo](deom)
+参考[Demo](Demo/Ajax.Net.Demo)
